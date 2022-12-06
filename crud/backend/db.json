@@ -1,19 +1,14 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@code3.com.br"
+      "name": "Gabriel Sappio",
+      "email": "teste@teste.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
-    },
-    {
-      "name": "Gabriel Silva",
-      "email": "testandoemail@teste.com.br",
-      "id": 3
+      "name": "Diogo Silva",
+      "email": "testediogo@teste.com",
+      "id": 2
     }
   ]
 }
